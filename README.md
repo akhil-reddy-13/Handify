@@ -21,3 +21,10 @@ Hand-controlled music synth. Move your hands, play notes.
 
 - Bring both hands together
 - Move right hand off screen
+
+## Drum gestures
+
+| Gesture | Sound |
+|---------|-------|
+| Cross arms | WAKANDA FOREVER |
+| Both hands up | Rise + drop |
