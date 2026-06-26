@@ -16,3 +16,8 @@ Hand-controlled music synth. Move your hands, play notes.
 ## Left hand — volume
 
 - Up/down = volume fader (sticks when hand leaves frame)
+
+## Mute
+
+- Bring both hands together
+- Move right hand off screen
