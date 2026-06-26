@@ -32,3 +32,9 @@ Hand-controlled music synth. Move your hands, play notes.
 ## Audio
 
 Clean supersaw lead + synthesized drums — no mic, no grainy vocoder processing.
+
+## Requirements
+
+- Python 3.10+
+- Webcam
+- macOS / Linux (tested on macOS)
