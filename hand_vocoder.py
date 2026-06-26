@@ -1,3 +1,4 @@
+# Handify — hand-controlled music synth
 #!/usr/bin/env python3
 """Hand Vocoder — right=notes, left=expression."""
 
