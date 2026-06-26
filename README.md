@@ -28,3 +28,7 @@ Hand-controlled music synth. Move your hands, play notes.
 |---------|-------|
 | Cross arms | WAKANDA FOREVER |
 | Both hands up | Rise + drop |
+
+## Audio
+
+Clean supersaw lead + synthesized drums — no mic, no grainy vocoder processing.
