@@ -12,3 +12,7 @@ Hand-controlled music synth. Move your hands, play notes.
 - Index fingertip selects pitch across on-screen note bars (C→C octave)
 - `[` `]` shift octave range
 - Keys `1`–`6` switch scale live
+
+## Left hand — volume
+
+- Up/down = volume fader (sticks when hand leaves frame)
