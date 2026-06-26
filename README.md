@@ -38,3 +38,7 @@ Clean supersaw lead + synthesized drums — no mic, no grainy vocoder processing
 - Python 3.10+
 - Webcam
 - macOS / Linux (tested on macOS)
+
+---
+
+Made with MediaPipe, OpenCV, and sounddevice.
